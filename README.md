@@ -23,7 +23,9 @@ Application web qui détermine si une image (visage) est **réelle** ou **géné
 | **AlexNet Inspo** | Réimplémentation | Architecture inspirée d'AlexNet |
 | **FiveBlockCNN** | CNN maison | 5 blocs Conv → ReLU → MaxPool, couche dense 256, sortie sigmoïde |
 
-<!-- Si tu as les scores, ajoute une colonne « Accuracy test » : c'est ce que les recruteurs regardent en premier. -->
+📈 **Meilleur résultat : 87,06 % d'accuracy sur le jeu de test avec FiveBlockCNN**, dans le cadre expérimental du dataset utilisé.
+
+<!-- Si tu as les scores des 3 autres modèles, ajoute une colonne « Accuracy test » au tableau. -->
 
 ## 🗂️ Préparation des données
 
